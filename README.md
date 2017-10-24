@@ -20,6 +20,10 @@
 ProvTools is creating an open process scientific culture through
 tools that capture, store and analyze data provenance. 
 
+[Contribute](https://github.com/ProvTools/ProvTools/wiki): check out
+our wiki on
+[contributing](https://github.com/ProvTools/ProvTools/wiki) to find
+out how you can help give back to the ProvTools community.
 
 ## Envisioned Future
 *Big Goal*
@@ -48,6 +52,7 @@ the processes behind them will be aided by automatic meta-data capture
 tools. The gains made from this increased efficiency will enable
 benefaction across socio-econimic and cultural barriers, inreasing the
 the diversity of the community of participants and stakeholders. 
+
 
 
 
